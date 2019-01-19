@@ -9,7 +9,6 @@ class ImageRender extends Component {
             type="file"
             id="files"
             name="files[]"
-            multiple
             onChange={this.props.handleImageLoad}
             accept="image/*"
           />
