@@ -1,7 +1,7 @@
 # Image Loader
 This a responsive single-page app bootstrapped with Create React App.
 
-p.s. p.s. refactored and improved versions is being handled under this address https://github.com/Lexie14/image-loader-improved
+p.s. refactored and improved versions is being handled under this address https://github.com/Lexie14/image-loader-improved
 
 ### App's Functionality
 The App allows to upload images from the user's device via File API. App's functionality:
